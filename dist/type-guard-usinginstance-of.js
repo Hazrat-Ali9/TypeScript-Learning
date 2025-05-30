@@ -14,7 +14,7 @@
             console.log(`${this.name} is making a generic animal sound`);
         }
     }
-    // Subclass: Dog extends Animal
+    // Subclass---> Dog extends Animal
     class Dog extends Animal {
         constructor(name, species) {
             super(name, species);
@@ -95,7 +95,7 @@
     // ---------------------------------------
     // Try With a Generic Animal (not Dog or Cat)
     // ---------------------------------------
-    const rabbit = new Animal("Rabbit Vai", "Rabbit");
+    const rabbit = new Animal("Jhankar Vai", "Rabbit");
     console.log("\n--- Unknown Animal Test ---");
     getAnimal1(rabbit);
     getAnimal2(rabbit);
