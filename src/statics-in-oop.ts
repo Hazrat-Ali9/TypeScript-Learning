@@ -1,5 +1,4 @@
 // Statics in Object-Oriented Programming (OOP)
-
 // In TypeScript, static members (properties and methods) belong to the class itself rather than to instances of the class.
 // This allows us to share common data or behavior among all instances of the class. Static properties and methods are
 // accessed using the class name instead of instances.
