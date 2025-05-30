@@ -1,5 +1,6 @@
 {
   // Getter and Setter in TypeScript
+  
 
   /**
    * In TypeScript, **getters** and **setters** are special methods used to access and modify the properties of a class.
