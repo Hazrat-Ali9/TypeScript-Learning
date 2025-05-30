@@ -2,7 +2,6 @@
   // ========================
   // Abstraction in TypeScript OOP
   // ========================
-
   // Interface represents a contract that any implementing class must fulfill.
   interface Vehicle1 {
     startEngine(): void;
