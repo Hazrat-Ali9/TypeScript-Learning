@@ -1,6 +1,6 @@
 "use strict";
 {
-    //  Encapsulation in OOP (Object-Oriented Programming)
+    // Encapsulation in OOP (Object-Oriented Programming)
     // Encapsulation allows bundling of data (properties) and methods (functions)
     // and restricts direct access to some of the object’s components to enforce security and consistency.
     //  Define a class representing a bank account
@@ -36,7 +36,7 @@
         }
     }
     //  Creating a new account instance
-    const person = new BangAccount(11, "Mazumder", 200, 4234234234234);
+    const person = new BangAccount(11, "Hazrat", 200, 234567874234);
     //  Accessing public properties
     console.log(` Account Holder: ${person.name}`);
     console.log(` Account ID: ${person.id}`);
@@ -48,6 +48,6 @@
     const getBalFunc = person.getHiddenMethod(); // returns the private method as a function
     getBalFunc.call(person); //  Calls the hidden getBalance method securely
     //  Create a student account and demonstrate protected access
-    const student = new StudentAccount(22, "Student Mia", 300, 9876543210);
+    const student = new StudentAccount(22, "Student Mia", 300, 21321543210);
     student.testAccess();
 }
