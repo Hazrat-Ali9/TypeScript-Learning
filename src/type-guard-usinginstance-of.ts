@@ -74,7 +74,6 @@
   // ------------------------------------------------
   // Custom Type Predicate Functions for Reusability
   // ------------------------------------------------
-
   // Type predicate: Check if Animal is Dog
   const isDog = (animal: Animal): animal is Dog => {
     return animal instanceof Dog;
