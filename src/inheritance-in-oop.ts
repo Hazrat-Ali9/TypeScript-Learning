@@ -2,7 +2,6 @@
   // -------------------------------------------
   // Inheritance in Object-Oriented TypeScript
   // -------------------------------------------
-
   // Base class representing a generic person
   class Person {
     name: string; // Person's name
