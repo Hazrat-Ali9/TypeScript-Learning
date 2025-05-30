@@ -31,13 +31,13 @@
         }
     }
     // Creating an instance of BangAccount
-    const person = new BangAccount(11, "Mazumder", 200);
+    const person = new BangAccount(11, "Hazrat", 200);
     // Accessing the balance using the getter
-    person.balance; //  Current balance for Mazumder is: 200
+    person.balance; //  Current balance for Hazrat is: 200
     // Depositing money using the setter
     person.diposite = 500; // 500 deposited successfully. New balance: 700
     // Checking the updated balance using the getter again
-    person.balance; //  Current balance for Mazumder is: 700
+    person.balance; //  Current balance for Hazrat is: 700
     // Trying to deposit an invalid amount
     person.diposite = -100; //  Cannot deposit a negative or zero amount.
 }
