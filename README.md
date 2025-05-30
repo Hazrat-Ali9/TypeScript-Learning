@@ -59,7 +59,7 @@ ts-node-dev --respawn --transpile-only src/index.ts
 
 ---
 
-# Welcome to Object-Oriented TypeScript
+# Welcome to TypeScript
 
 Welcome back to the next step in your TypeScript journey!
 
@@ -1362,7 +1362,7 @@ person.addDeposit(500); //  Uses public method to deposit money
 
 //  Access private method via public method
 const hiddenBalanceFn = person.getHiddenMethod();
-hiddenBalanceFn.call(person); // Output:  Balance for Mazumder is: 700
+hiddenBalanceFn.call(person); // Output:  Balance for Hazrat is: 700
 
 // 🎓 Create student account
 const student = new StudentAccount(22, "Student Mia", 300, 9876543210);
