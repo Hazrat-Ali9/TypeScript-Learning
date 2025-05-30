@@ -3,7 +3,7 @@
   // Example 1: Class and Object - Long Form Syntax
   // -------------------------------
 
-  // Define a class representing an animal
+  // Define a Class representing an animal
   class Animal1 {
     name: string; // Name of the animal
     species: string; // Species of the animal (e.g., dog, cat)
