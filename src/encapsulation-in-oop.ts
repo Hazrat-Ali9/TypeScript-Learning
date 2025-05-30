@@ -1,5 +1,5 @@
 {
-  //  Encapsulation in OOP (Object-Oriented Programming)
+  // Encapsulation in OOP (Object-Oriented Programming)
   // Encapsulation allows bundling of data (properties) and methods (functions)
   // and restricts direct access to some of the object’s components to enforce security and consistency.
 
