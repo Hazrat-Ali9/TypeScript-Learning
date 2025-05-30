@@ -10,7 +10,7 @@
             console.log(`I am a person. I sleep for 8 hours.`);
         }
     }
-    // Derived class: Student
+     // Derived class: Student
     class Student extends Person {
         getSleep() {
             console.log(`I am a student. I sleep for 7 hours.`);
