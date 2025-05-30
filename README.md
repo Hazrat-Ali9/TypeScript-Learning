@@ -896,7 +896,7 @@ This will deposit **500** into the account, updating the balance.
 #### Step 4: Check Updated Balance (Using Getter)
 
 ```ts
-person.balance; //  Current balance for Mazumder is: 700
+person.balance; //  Current balance for Hazrat is: 700
 ```
 
 The balance is updated to **700** after the deposit.
