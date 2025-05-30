@@ -1,10 +1,10 @@
 {
   // Access Modifiers in TypeScript
-
   /**
    * This example demonstrates how access modifiers work in TypeScript.
    * We'll use `public`, `private`, `protected`, and `readonly` in class properties.
    */
+  
 
   // Class representing a basic Bangladeshi Bank Account
   class BangAccount {
