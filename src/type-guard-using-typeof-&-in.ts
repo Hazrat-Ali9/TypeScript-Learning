@@ -2,7 +2,6 @@
   // ----------------------------------------------------------
   // Type Guards in TypeScript: using `typeof` and `in` keyword
   // ----------------------------------------------------------
-
   // Define a union type that can be either a number or a string
   type TAlphaNumeric = string | number;
 
