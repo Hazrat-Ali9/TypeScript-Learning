@@ -35,7 +35,7 @@
         }
     }
     // Creating an instance of BangAccount
-    const person = new BangAccount(11, "Mazumder", 200, 4234234234234);
+    const person = new BangAccount(11, "Hazrat", 200, 439894234234);
     // Accessing public properties
     console.log(`👤 Account Holder: ${person.name}`);
     console.log(`🆔 Account ID: ${person.id}`);
