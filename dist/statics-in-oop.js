@@ -78,7 +78,7 @@ console.log(`Static Increment 2: ${Counter3.increment()}`); // 2
 // Static methods can be invoked without creating an instance of the class, and the static `count` is shared across calls.
 ///////////////////////////////////////////////////////////////
 /**
- * Recap:
+ *  Recap:
  *
  * - **Instance properties/methods**: Belong to each individual instance of the class.
  *   They can have unique values for each instance.
