@@ -2,7 +2,6 @@
   // Polymorphism in Object-Oriented Programming (OOP)
   // Polymorphism allows objects of different types to be treated through the same interface.
   // It enables different classes to define their own versions of methods.
-
   // Example 1: Different types of people sleep for different durations.
 
   // Base class
