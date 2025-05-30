@@ -17,7 +17,7 @@
             return param1.toString() + param2.toString();
         }
     };
-    // Testing the `add` function
+    // Testing the add function
     console.log("Result (10 + 20):", add(10, 20)); // 30
     console.log("Result ('10' + '20'):", add("10", "20")); // "1020"
     console.log("Result (10 + '20'):", add(10, "20")); // "1020"
