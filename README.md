@@ -1398,7 +1398,7 @@ Encapsulation is a great way to **enforce consistency and integrity** in your cl
 ## Author
 
 **Hazrat 🐳 Ali**  
-Software Engineer & Lead Frontend Developer  
+Programmer || Software Engineering  
 [Hazrat](https://hazratali.dev/)  
 [Email me](mailto:hazratalibusiness9@gmail.com)  
 [Portfolio](https://hazratali.dev/)  
