@@ -1,3 +1,3 @@
 "use strict";
-const text = "Welcome to Object-Oriented TypeScript";
+const text = "Welcome to TypeScript";
 console.log(text);
