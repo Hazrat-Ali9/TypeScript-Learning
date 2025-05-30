@@ -1,7 +1,7 @@
 "use strict";
 {
     // -------------------------------
-    // Example 1: Class and Object - Long Form Syntax
+    // Class and Object - Long Form Syntax
     // -------------------------------
     // Define a class representing an animal
     class Animal1 {
